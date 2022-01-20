@@ -1,4 +1,4 @@
-###### ŻYĆ ALBO NIE ŻYĆ OTO JEST PYTANIE, A SZYMON TO SIMOFF
+# ŻYĆ ALBO NIE ŻYĆ OTO JEST PYTANIE, A SZYMON TO SIMOFF
 
 Geralt z Rivii był adoptowany
 
@@ -35,4 +35,4 @@ prezes ma ale o imieniu kot
 
 Ogólnie to powtórze to tylko z instrukcją; a więc: `Napizse tu cos bo moge` i dokładnie tak to ma wyglądać
 
-	![Korwin, the Polish Politics God](korwinior.png)
+	![Korwin, the Polish Politics God](korwinior.jpg)
