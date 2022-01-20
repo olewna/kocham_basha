@@ -35,4 +35,4 @@ prezes ma ale o imieniu kot
 
 Ogólnie to powtórze to tylko z instrukcją; a więc: `Napizse tu cos bo moge` i dokładnie tak to ma wyglądać
 
-	![Korwin, the Polish Politics God](korwinior.jpg)
+	![Korwin, the Polish Politics God](/korwinior.jpg)
